@@ -3,9 +3,9 @@
 ## Data
 
 ### Classification:
--- S-Rank
--- Missing ninja
--- Sensory type
+1. S-Rank
+2. Missing ninja
+3. Sensory type
 -- Medical ninja
 -- Daimyō
 -- Sage
