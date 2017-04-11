@@ -21,7 +21,7 @@
 16. Ninja monk
 17. Samurai
 
-
+### Nature types
 - Fire: the paper will ignite and turn to ash.
 - Wind: the paper will split in two.
 - Lightning: the paper will wrinkle.
