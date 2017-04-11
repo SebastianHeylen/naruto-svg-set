@@ -43,7 +43,6 @@
 - Water (水, Mizu) is strong against Fire but weak against Earth.
 
 ### Species:
-========
 1. Mutated Human
 2. Artificial Human
 3. Alien
@@ -51,7 +50,6 @@
 5. Synthetic Human
 
 ### Occupation:
-===========
 Hokage
 Kazekage
 Mizukage
