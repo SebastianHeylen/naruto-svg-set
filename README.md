@@ -169,7 +169,7 @@ Terrorist Bomber
 - Aquarius - January 20 - February 18
 - Pisces - February 19 - March 20
 
-
+### Special characters
 - ¥
 - Jōnin
 - Chūnin
@@ -182,7 +182,6 @@ Terrorist Bomber
 - Kokuō
 
 ### Symbols
-=======
 - 零 = 0
 - 一 = 1
 - 二 = 2
