@@ -1,15 +1,14 @@
 # naruto-svg-set
 
-# Data
+## Data
 
-Classification:
-===============
-S-Rank
-Missing ninja
-Sensory type
-Medical ninja
-Daimyō
-Sage
+### Classification:
+-- S-Rank
+-- Missing ninja
+-- Sensory type
+-- Medical ninja
+-- Daimyō
+-- Sage
 Jinchūriki
 Pseudo-Jinchūriki
 Sanin
@@ -44,7 +43,7 @@ Other methods of acquiring all five natures include:
 - Earth (土, Tsuchi) is strong against Water but weak against Lightning.
 - Water (水, Mizu) is strong against Fire but weak against Earth.
 
-Species:
+### Species:
 ========
 Mutated Human
 Artificial Human
@@ -52,7 +51,7 @@ Alien
 Alien-Human hybrid
 Synthetic Human
 
-Occupation:
+### Occupation:
 ===========
 Hokage
 Kazekage
@@ -142,15 +141,13 @@ Weapon Seller
 Carpenter
 Terrorist Bomber
 
-Status
-=======
+### Status
 Alive
 Deceased
 Presumed Decease
 Incapticipated
 
-Tailed Beast Names
-==================
+### Tailed Beast Names
 Shukaku
 Matatabi
 Isobu
@@ -161,8 +158,7 @@ Chōmei
 Gyūki
 Kurama
 
-Zodiac Dates
-============
+### Zodiac Dates
 Aries - March 21 - April 19
 Taurus - April 20 - May 20
 Gemini - May 21 - June 20
@@ -188,7 +184,7 @@ Ninshū
 Gokū
 Kokuō
 
-Symbols
+### Symbols
 =======
 零 = 0
 一 = 1
