@@ -50,39 +50,39 @@
 5. Synthetic Human
 
 ### Occupation:
-Hokage
-Kazekage
-Mizukage
-Tsuchikage
-Raikage
-Hoshikage
-Secret Leader of Kirigakure
-Village Head
-General
-ANBU Captain
-ANBU Commander
-Jōnin Commander
-Councillor
-Head Monk
-Leader of Root
-Candidate Sixth Hokage
-Doctor
-Nurse
-Writer
-Priest
-Hokage's Assistant
-Ambassador
-Scientist
-Elite Bodyguard
-Botanist
-Proprietor of Yamanaka Flowers
-Founder and Leader of Otogakure
-Founder and leader of Akatsuki
-Co-founder of Konohagakure
-Akatsuki Leader
-Akatsuki Spy
-Akatsuki Treasurer
-Orochimaru's spy and right-hand man
+- Hokage
+- Kazekage
+- Mizukage
+- Tsuchikage
+- Raikage
+- Hoshikage
+- Secret Leader of Kirigakure
+- Village Head
+- General
+- ANBU Captain
+- ANBU Commander
+- Jōnin Commander
+- Councillor
+- Head Monk
+- Leader of Root
+- Candidate Sixth Hokage
+- Doctor
+- Nurse
+- Writer
+- Priest
+- Hokage's Assistant
+- Ambassador
+- Scientist
+- Elite Bodyguard
+- Botanist
+- Proprietor of Yamanaka Flowers
+- Founder and Leader of Otogakure
+- Founder and leader of Akatsuki
+- Co-founder of Konohagakure
+- Akatsuki Leader
+- Akatsuki Spy
+- Akatsuki Treasurer
+- Orochimaru's spy and right-hand man
 Princess
 Heiress of the Hyūga Clan
 Heiress of the Kurama Clan
@@ -120,23 +120,23 @@ Head of the Hōki Family
 Head of the Suna Council
 Head of the Konoha Torture and Interrogation Force
 Emperor of the Land of Ancestors
-Leader of Nadeshiko Village
-Captain of the Surprise Attack Division of the Allied Shinobi Forces
-Captain of the Sensor Division of the Allied Shinobi Forces
-Captain of the Logistical Support and Medical Division of the Allied Shinobi Forces
-Captain of the Intelligence Division of the Allied Shinobi Forces
-Leader of the Counter-Terrorism Division
-Chef # fanon
-Ramen chef
-Waitress
-Sasori's spy
-Caretaker at the Konoha Orphanage
-Kekkei Genkai collector
-Deer Herder
-Captain of the Konoha Military Police Force
-Weapon Seller
-Carpenter
-Terrorist Bomber
+- Leader of Nadeshiko Village
+- Captain of the Surprise Attack Division of the Allied Shinobi Forces
+- Captain of the Sensor Division of the Allied Shinobi Forces
+- Captain of the Logistical Support and Medical Division of the Allied Shinobi Forces
+- Captain of the Intelligence Division of the Allied Shinobi Forces
+- Leader of the Counter-Terrorism Division
+- Ramen chef
+- Waitress
+- Sasori's spy
+- Caretaker at the Konoha Orphanage
+- Kekkei Genkai collector
+- Deer Herder
+- Captain of the Konoha Military Police Force
+- Weapon Seller
+- Carpenter
+- Terrorist Bomber
+- Retainer of Momoshiki
 
 ### Status
 - Alive
