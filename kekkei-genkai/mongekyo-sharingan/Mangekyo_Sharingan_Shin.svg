@@ -1,0 +1,28 @@
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" width="300" height="300" id="svg2" version="1.1" inkscape:version="0.91 r13725" sodipodi:docname="Shin.svg">
+    <sodipodi:namedview pagecolor="#ffffff" bordercolor="#666666" borderopacity="1" objecttolerance="10" gridtolerance="10" guidetolerance="10" inkscape:pageopacity="0" inkscape:pageshadow="2" inkscape:window-width="1280" inkscape:window-height="737" id="namedview22" showgrid="false" inkscape:zoom="1.7733333" inkscape:cx="150" inkscape:cy="150" inkscape:window-x="-8" inkscape:window-y="-8" inkscape:window-maximized="1" inkscape:current-layer="g11"/>
+    <metadata id="metadata3004">image/svg+xml<rdf:RDF>
+        <cc:Work rdf:about="">
+            <dc:format>image/svg+xml</dc:format>
+            <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+        </cc:Work>
+    </rdf:RDF>
+    </metadata>
+    <defs id="defs5">
+        <radialGradient id="fondo">
+            <stop stop-color="#660000" id="fondo 3" offset="0"/>
+            <stop stop-color="#c30000" offset="0.5" id="fondo 2"/>
+            <stop stop-color="#a00000" id="fondo 1" offset="1"/>
+        </radialGradient>
+    </defs>
+    <g id="g11">
+        <title id="title13">Layer 1</title>
+        <circle fill="url(#fondo)" fill-rule="nonzero" stroke="#000000" stroke-width="10px" r="145" cy="150" cx="150" id="iris"/>
+        <circle fill="black" r="88.75439" cy="150" cx="150.00001" id="centro"/>
+        <metadata id="metadata17">Created by Lukas Pessoa Dantas</metadata>
+        <g id="svg_6">
+            <g id="svg_4" fill="#000000">
+                <path id="svg_5" d="m 128.52518,70.63336 c -13.4301,38.90157 -37.158833,72.2866 -58.14655,102.30085 -18.67175,26.73351 -33.77596,48.74115 -33.77596,48.74115 0,0 25.8532,-3.01157 57.21989,-6.90347 41.43815,-9.10061 71.91062,-5.67608 113.14252,-1.76057 30.85704,2.91888 56.38593,5.05017 56.38593,5.05017 0,0 -14.64087,-20.66403 -32.8493,-45.63693 -29.83997,-33.26835 -42.49366,-67.3722 -56.38594,-101.32788 -11.81462,-28.81844 -21.72966,-52.67937 -21.72966,-52.67937 0,0 -10.888,23.30494 -23.86093,52.21605 z" inkscape:connector-curvature="0" sodipodi:nodetypes="cccccccccc"/>
+            </g>
+        </g>
+    </g>
+</svg>

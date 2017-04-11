@@ -1,0 +1,22 @@
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" width="300" height="300" id="Mangekyo Sharingan" version="1.1" inkscape:version="0.48.4 r9939" sodipodi:docname="Base Mangekyō Sharingan.svg">
+    <metadata id="metadata3004">
+        <rdf:RDF>
+            <cc:Work rdf:about="">
+                <dc:title/>
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+            </cc:Work>
+        </rdf:RDF>
+    </metadata>
+    <defs id="gr">
+        <radialGradient id="fondo">
+            <stop offset="0" id="fondo 3" style="stop-color:#660000;stop-opacity:1"/>
+            <stop id="fondo 2" offset="0.5" style="stop-color:#c30000;stop-opacity:1"/>
+            <stop offset="1" id="fondo 1" style="stop-color:#a00000;stop-opacity:1"/>
+        </radialGradient>
+    </defs>
+    <sodipodi:namedview id="base" pagecolor="#ffffff" bordercolor="#666666" borderopacity="1.0" inkscape:pageopacity="0.0" inkscape:pageshadow="2" inkscape:zoom="1.5912668" inkscape:cx="129.97948" inkscape:cy="158.31075" inkscape:document-units="px" inkscape:current-layer="Mangekyo Sharingan" showgrid="false" inkscape:window-width="1366" inkscape:window-height="745" inkscape:window-x="-8" inkscape:window-y="-8" inkscape:window-maximized="1"/>
+    <circle id="iris" cx="150" cy="150" r="145" sodipodi:cx="150" sodipodi:cy="150" sodipodi:rx="145" sodipodi:ry="145" style="fill:url(#fondo);fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:10px"/>
+    <path style="fill:none;stroke:black;stroke-width:10" d="m 151.64843,151.95658 c 5.99133,3.67443 8.00353,-6.11203 6.22374,-9.7714 -4.82312,-9.91663 -18.86189,-8.50735 -26.13973,-2.44284 -13.01834,10.848 -10.16945,30.71762 1.24478,41.52844 16.75081,15.8653 43.93069,11.53583 58.50317,-4.88573 19.42285,-21.88737 13.38248,-55.56356 -8.71325,-73.28548 -27.80523,-22.301209 -69.35112,-14.748178 -90.866671,12.2143 -26.05821,32.65516 -16.689431,80.55777 16.181781,105.04251 38.73758,28.85443 94.85261,18.0128 123.23012,-19.54286 C 264.07533,157.45405 251.34165,95.213243 207.6621,64.013973 158.0306,28.563382 87.275659,42.715335 52.068495,90.885382 12.571378,144.92491 28.684454,221.55018 83.187292,259.44197 c 57.585828,40.03516 137.741988,26.144 181.571948,-25.97154 1.3845,-1.64623 22.63827,-29.28335 26.21614,-49.39907" id="espiral" inkscape:connector-curvature="0"/>
+    <circle id="centro" cx="150" cy="150" r="12.207" sodipodi:cx="150" sodipodi:cy="150" sodipodi:rx="12.207" sodipodi:ry="12.207" d="m 162.207,150 c 0,6.74174 -5.46526,12.207 -12.207,12.207 -6.74174,0 -12.207,-5.46526 -12.207,-12.207 0,-6.74174 5.46526,-12.207 12.207,-12.207 6.74174,0 12.207,5.46526 12.207,12.207 z"/>
+</svg>

@@ -1,0 +1,27 @@
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" width="100" height="100" id="svg3409" version="1.1" inkscape:version="0.47 r22583" sodipodi:docname="New document 8">
+    <defs id="defs3411">
+        <inkscape:perspective sodipodi:type="inkscape:persp3d" inkscape:vp_x="0 : 526.18109 : 1" inkscape:vp_y="0 : 1000 : 0" inkscape:vp_z="744.09448 : 526.18109 : 1" inkscape:persp3d-origin="372.04724 : 350.78739 : 1" id="perspective3417"/>
+        <inkscape:perspective id="perspective3427" inkscape:persp3d-origin="0.5 : 0.33333333 : 1" inkscape:vp_z="1 : 0.5 : 1" inkscape:vp_y="0 : 1000 : 0" inkscape:vp_x="0 : 0.5 : 1" sodipodi:type="inkscape:persp3d"/>
+        <radialGradient inkscape:collect="always" xlink:href="#linearGradientEarth" id="radialGradient3209" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1,0,0,0.85945027,0,11.573318)" cx="-1021.5062" cy="82.343224" fx="-1021.5062" fy="82.343224" r="83.034187"/>
+        <linearGradient id="linearGradientEarth">
+            <stop offset="0" id="stopEarth0" style="stop-color:#ba771c;stop-opacity:1"/>
+            <stop id="stopEarth1" offset="1" style="stop-color:#734a12;stop-opacity:1"/>
+        </linearGradient>
+    </defs>
+    <sodipodi:namedview id="base" pagecolor="#ffffff" bordercolor="#666666" borderopacity="1.0" inkscape:pageopacity="0.0" inkscape:pageshadow="2" inkscape:zoom="0.35" inkscape:cx="239.28572" inkscape:cy="47.142854" inkscape:document-units="px" inkscape:current-layer="layer1" showgrid="false" inkscape:window-width="566" inkscape:window-height="488" inkscape:window-x="22" inkscape:window-y="22" inkscape:window-maximized="0"/>
+    <metadata id="metadata3414">
+        <rdf:RDF>
+            <cc:Work rdf:about="">
+                <dc:format>image/svg+xml</dc:format>
+                <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+                <dc:title/>
+            </cc:Work>
+        </rdf:RDF>
+    </metadata>
+    <g inkscape:label="Layer 1" inkscape:groupmode="layer" id="layer1" transform="translate(-135.71428,-479.50504)">
+        <g transform="translate(-264.28569,-472.85714)" id="Earth Country 1">
+            <path transform="matrix(0.60013489,0,0,0.70318836,1063.0415,944.45938)" d="m -941.87268,82.343224 c 0,37.534986 -35.65315,67.963116 -79.63352,67.963116 -43.9804,0 -79.6336,-30.42813 -79.6336,-67.963116 0,-37.534991 35.6532,-67.963112 79.6336,-67.963112 43.98037,0 79.63352,30.428121 79.63352,67.963112 z" sodipodi:ry="67.963112" sodipodi:rx="79.633545" sodipodi:cy="82.343224" sodipodi:cx="-1021.5062" id="Earth Country Icon 1" style="fill:url(#radialGradient3209);fill-opacity:1;stroke:#000000;stroke-width:6.8012886;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:55.5000029" sodipodi:type="arc"/>
+            <path id="Earth Country Kanji 1" style="fill:#000000;fill-opacity:1;stroke:none" d="m 424.67883,1022.3656 c -3.1826,-0.2839 -5.6799,-0.589 -9.0195,-1.1627 -0.3375,-0.037 -0.652,0.045 -0.652,0.1126 -0.088,0.1625 0.6379,0.9378 0.8851,1.1668 2.4984,1.9948 8.8355,5.5528 11.9142,6.7424 0.3615,0.1469 0.6271,0.1979 0.8197,0.1758 7.659,-0.5005 14.1147,-0.582 20.9482,-0.8026 8.6886,0.074 17.9757,0.6014 26.4611,1.3526 2.9007,0.224 5.4957,0.7504 8.5809,1.0468 0.3431,-0.059 0.3752,-0.087 0.3835,-0.3456 -0.1387,-1.2803 -5.5634,-6.5678 -8.4875,-8.4832 -0.8783,-0.4769 -0.5042,-0.5097 -1.7679,-0.4266 -2.3679,0.5218 -3.9882,0.7113 -6.0893,0.8707 -4.324,0.4056 -8.5778,0.4982 -12.744,0.276 -0.2911,-0.1479 -0.4182,-0.4102 -0.4393,-1.8957 -0.4217,-7.0126 -0.861,-14.0425 -0.5074,-21.09088 -0.035,-0.8307 -0.1558,-0.7552 0.3906,-0.794 2.2085,-0.1133 4.4288,-0.08 6.6383,-0.032 5.6979,0.1857 9.443,0.4267 15.6622,1.03718 0.8403,0.057 1.0656,0.066 1.6337,0.054 0.1586,-0.01 0.2092,0.033 0.1817,-0.20908 -0.04,-0.2487 -0.3244,-0.8673 -0.7876,-1.5638 -1.3782,-1.7405 -3.3056,-3.8152 -5.7755,-5.3113 -0.7923,-0.3352 -1.5815,-0.4029 -2.2726,-0.1948 -2.9657,1.0654 -9.2272,1.0687 -13.7436,1.2496 -1.8439,0.066 -2.2492,0.038 -2.4712,-0.4301 -0.1924,-4.2298 0.6096,-7.2173 0.3886,-11.8219 0.026,-0.4183 -0.1034,-0.8722 -0.3395,-1.1865 -3.3976,-3.1083 -5.7684,-4.4408 -9.0814,-6.4858 -0.4224,-0.2149 -1.7425,-0.5025 -2.2299,-0.4858 -0.5234,0.053 -1.1328,0.4194 -1.0265,0.9768 0.9837,2.2209 3.1394,5.5129 3.5106,8.6214 0.8284,3.7658 0.4466,7.2672 0.335,10.8961 -0.019,0.2806 -0.041,0.3115 -0.3604,0.2815 -7.0099,-0.3979 -13.3623,0.3446 -20.4563,-0.741 -0.2436,-0.027 -0.4275,-0.011 -0.4275,0.038 0.089,0.1935 0.2448,0.332 0.4233,0.4973 1.8035,1.44 6.4645,3.9438 8.687,4.8026 0.2956,0.1014 0.6019,0.1424 0.7587,0.01 3.6102,-0.1748 11.5154,-0.025 11.549,0.1044 -0.023,7.72348 0.167,15.56658 -0.34,23.34978 0.039,0.2387 -0.2352,0.2864 -2.3495,0.4091 -5.4728,0.1451 -12.9679,-0.05 -18.783,-0.6052 z" sodipodi:nodetypes="ccccccccccccccccccccccccccccccccccccccccccc"/>
+        </g>
+    </g>
+</svg>

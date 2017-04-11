@@ -1,0 +1,25 @@
+<svg width="300" height="300" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+        <radialGradient r="0.48163" cy="0.5" cx="0.5" id="svg_9">
+            <stop stop-color="#240000" offset="0"></stop>
+            <stop stop-color="#ff0000" offset="0.6"></stop>
+            <stop stop-color="#240000" offset="1"></stop>
+        </radialGradient>
+        <filter id="pupila">
+            <feGaussianBlur stdDeviation="0.1"></feGaussianBlur>
+        </filter>
+        <radialGradient r="1.71429" cy="0.5" cx="0.5" id="svg_3">
+            <stop stop-color="#240000" offset="0"></stop>
+            <stop stop-color="#ff0000" offset="1"></stop>
+        </radialGradient>
+        <filter height="200%" width="200%" y="-50%" x="-50%" id="svg_1_blur">
+            <feGaussianBlur stdDeviation="10" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+    </defs>
+    <g>
+        <title>Layer 1</title>
+        <circle stroke-width="10" stroke="#000000" fill="url(#svg_9)" id="iris" r="145" cy="150" cx="150"></circle>
+        <circle fill="#240000" id="pupila" r="27.5" cy="150" cx="150" filter="url(#pupila)"></circle>
+        <ellipse filter="url(#svg_1_blur)" ry="83" rx="83" id="svg_1" cy="150" cx="150" stroke-width="20" stroke="#ff0000" fill="none"></ellipse>
+    </g>
+</svg>

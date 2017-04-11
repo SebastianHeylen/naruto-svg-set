@@ -1,0 +1,25 @@
+<svg width="100" height="100" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs>
+        <linearGradient id="linearGradient4775">
+            <stop offset="0" id="stop4777" stop-color="#a3977f"></stop>
+            <stop stop-color="#ffffff" id="stop4779" offset="0.81651"></stop>
+            <stop offset="1" id="stop4781" stop-color="#000e98"></stop>
+        </linearGradient>
+        <linearGradient id="linearGradient4739">
+            <stop stop-color="#ffffff" id="stop4741" offset="0"></stop>
+            <stop stop-color="#cf7dd0" id="stop4743" offset="1"></stop>
+        </linearGradient>
+        <radialGradient xlink:href="#linearGradient4739" id="radialGradient4717" cx="50.0368" cy="50.71226" fx="50.0368" fy="50.71226" r="50.0368" gradientTransform="matrix(0.67667481,-2.4143896e-7,-2.4216181e-7,0.6787007,36.852038,-34.41871)" gradientUnits="userSpaceOnUse"></radialGradient>
+        <radialGradient xlink:href="#linearGradient4775" id="radialGradient4773" cx="50" cy="50" fx="50" fy="50" r="41.81483" gradientTransform="translate(0,1.368425e-5)" gradientUnits="userSpaceOnUse"></radialGradient>
+    </defs>
+    <metadata id="metadata7">image/svg+xmlimage/svg+xmlimage/svg+xmlimage/svg+xmlimage/svg+xmlimage/svg+xmlimage/svg+xml</metadata>
+    <g>
+        <title>Layer 1</title>
+        <ellipse fill="url(#radialGradient4773)" fill-rule="evenodd" stroke="#000000" stroke-width="3" stroke-miterlimit="4" ry="40.31482" rx="40.31483" cy="50" cx="50" id="path4757"></ellipse>
+        <rect fill="url(#radialGradient4717)" fill-rule="evenodd" stroke="#000000" stroke-width="2.89203" stroke-linecap="square" stroke-miterlimit="4" transform="matrix(0.70710438,0.70710918,-0.70710438,0.70710918,0,0) " y="-33.96025" x="36.85204" height="67.92002" width="67.71727" id="rect4709"></rect>
+        <g fill="#000000" id="g4187" transform="matrix(0.65496383,0,0,0.65496383,17.251805,17.278492) "></g>
+        <g fill="#000000" stroke-width="5.917" stroke-miterlimit="4" transform="matrix(0.65515283,0,0,0.65515629,17.255637,17.261555) " id="g4749">
+            <path stroke-width="5.917" stroke-miterlimit="4" d="m24.96454,33.86906c-0.06293,10.69802 -0.18879,18.87886 -0.33562,20.51503c-0.50344,5.83147 -1.15371,9.22966 -2.32839,12.18735c-1.23761,3.08355 -3.71284,7.5935 -6.27198,11.39025l-1.04882,1.55226l2.45425,1.67812c1.34249,0.90199 2.51718,1.67812 2.58011,1.72007c0.37758,0.25172 4.57288,-6.06221 6.27198,-9.43942c3.33526,-6.56565 4.468,-12.79568 4.95045,-27.01775l0.12586,-3.9226l3.75479,0c2.83183,0 3.79675,0.06293 3.83871,0.25172c2.99963,10.04775 6.251,16.36168 11.57903,22.52877l1.11176,1.27957l-0.46149,0.44051c-2.20253,2.01373 -10.46728,6.16708 -19.55011,9.79602c-1.95082,0.7971 -3.64991,1.51031 -3.73382,1.59422c-0.12586,0.10488 2.34937,4.38409 3.14648,5.41195c0.04195,0.06293 2.03472,-0.67125 4.42605,-1.63618c8.43256,-3.35625 16.19386,-7.57252 19.42425,-10.5302l1.19566,-1.09077l0.88102,0.83906c3.81772,3.67089 11.95661,7.9501 21.85752,11.47414l1.99277,0.71321l2.11863,-2.83184c1.1537,-1.55225 2.07668,-2.85281 2.03473,-2.87377c-0.04195,-0.02098 -1.6152,-0.52441 -3.52406,-1.15372c-4.78265,-1.55226 -8.76819,-3.14647 -12.48103,-4.97142c-2.91573,-1.46836 -7.44666,-4.25824 -8.05498,-4.99242c-0.23074,-0.27268 -0.12586,-0.48246 0.65027,-1.32151c6.23002,-6.77541 10.61412,-16.13094 12.46005,-26.55626c0.14684,-0.94394 0.29367,-1.84594 0.29367,-1.99277c0,-0.18879 -4.44702,-0.25172 -21.50092,-0.25172l-21.50092,0l0,-7.2369l0,-7.2369l22.96928,0l22.99025,0l-0.06293,-2.99964l-0.06293,-2.97866l-26.05282,-0.06293l-26.03185,-0.04195l-0.10488,17.76711l-0.00002,-0.00003zm41.49154,9.64919c-1.21664,4.04847 -3.96457,9.87994 -6.29296,13.36204c-1.82495,2.72695 -3.71284,5.16022 -3.98553,5.07632c-0.39855,-0.10489 -2.66401,-2.93671 -4.1953,-5.26511c-2.45425,-3.67089 -4.88752,-8.64232 -6.41881,-13.06836l-0.37758,-1.09078l10.78193,0l10.78192,0l-0.29366,0.98589l-0.00001,0z" id="path4751"></path>
+        </g>
+    </g>
+</svg>
