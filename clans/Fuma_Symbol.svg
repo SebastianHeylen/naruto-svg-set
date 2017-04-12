@@ -1,14 +1,3 @@
-<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" width="100" height="100" id="svg2" version="1.1" inkscape:version="0.47 r22583" sodipodi:docname="New document 1">
-    <defs id="defs4"/>
-    <sodipodi:namedview id="base" pagecolor="#ffffff" bordercolor="#666666" borderopacity="1.0" inkscape:pageopacity="0.0" inkscape:pageshadow="2" inkscape:zoom="3.959798" inkscape:cx="49.069922" inkscape:cy="72.084207" inkscape:document-units="px" inkscape:current-layer="layer1" showgrid="true" inkscape:snap-global="true" inkscape:window-width="1280" inkscape:window-height="940" inkscape:window-x="-8" inkscape:window-y="-8" inkscape:window-maximized="1"/>
-    <g inkscape:label="Layer 1" inkscape:groupmode="layer" id="layer1" transform="translate(-5,-547.36218)">
-        <path style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" d="m 55,547.36218 -15,35 -35,15 35,15 15,35 15,-35 35,-15 -35,-15 -15,-35 z m -0.491071,40.47619 c 0.162323,-0.008 0.3267,0 0.491071,0 5.259852,0 9.52381,4.26395 9.52381,9.52381 0,5.25985 -4.263958,9.52381 -9.52381,9.52381 -5.259854,0 -9.52381,-4.26396 -9.52381,-9.52381 0,-5.09549 4.000645,-9.26873 9.032739,-9.52381 z" id="path2842" sodipodi:nodetypes="ccccccccccssssc"/>
-    </g>
-    <metadata id="metadata3621">
-        <rdf:RDF>
-            <cc:Work rdf:about="">
-                <dc:title/>
-            </cc:Work>
-        </rdf:RDF>
-    </metadata>
+<svg xmlns="http://www.w3.org/2000/svg" width="100" height="100">
+    <path d="M50 0L35 35 0 50l35 15 15 35 15-35 35-15-35-15L50 0zm-.49 40.476H50c5.26 0 9.524 4.264 9.524 9.524 0 5.26-4.264 9.524-9.524 9.524-5.26 0-9.524-4.264-9.524-9.524 0-5.095 4-9.27 9.033-9.524z"/>
 </svg>
