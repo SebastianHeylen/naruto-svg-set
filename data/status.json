@@ -1,0 +1,8 @@
+{
+  "status": [
+    "Alive",
+    "Deceased",
+    "Presumed deceased",
+    "Incapticipated"
+  ]
+}
