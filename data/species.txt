@@ -1,0 +1,6 @@
+Human
+Mutated Human
+Artificial Human
+Alien
+Alien-Human hybrid
+Synthetic Human

@@ -1,0 +1,4 @@
+Alive
+Deceased
+Presumed Decease
+Incapticipated
