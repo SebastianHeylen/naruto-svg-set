@@ -1,18 +1,6 @@
-<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" version="1.0" width="100" height="100" id="svg2211" sodipodi:version="0.32" inkscape:version="0.46" sodipodi:docname="Village Symbol Iwagakure.svg" inkscape:output_extension="org.inkscape.output.svg.inkscape">
-    <metadata id="metadata9">
-        <rdf:RDF>
-            <cc:Work rdf:about="">
-                <dc:format>image/svg+xml</dc:format>
-                <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-            </cc:Work>
-        </rdf:RDF>
-    </metadata>
-    <sodipodi:namedview inkscape:window-height="930" inkscape:window-width="1280" inkscape:pageshadow="2" inkscape:pageopacity="0.0" guidetolerance="10.0" gridtolerance="10.0" objecttolerance="10.0" borderopacity="1.0" bordercolor="#666666" pagecolor="#ffffff" id="base" showgrid="false" inkscape:zoom="1" inkscape:cx="-7.5518361" inkscape:cy="-19.823494" inkscape:window-x="-4" inkscape:window-y="-4" inkscape:current-layer="svg2211" showguides="true" inkscape:guide-bbox="true">
-        <inkscape:grid type="xygrid" id="grid3154" visible="true" enabled="true"/>
-    </sodipodi:namedview>
-    <defs id="defs2214"/>
-    <g id="g3194" transform="matrix(2.6264611,0,0,2.5459179,44.343926,-298.90363)" style="stroke:#000000;stroke-width:2.20892268000000010;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stroke-linejoin:round;stroke-linecap:butt">
-        <path sodipodi:nodetypes="ccccccc" id="path3190" d="M 0.82774493,149.65511 L 19.543609,149.67004 L 20.103276,141.96532 C 17.586128,139.20655 17.10366,138.65511 16.10366,134.65511 L 4.9310213,134.72409 C 3.9310213,138.72409 3.1036599,140.72409 0.10365991,142.72409 L 0.82774493,149.65511 z" style="opacity:1;fill:none;fill-opacity:0.50196078000000000;fill-rule:nonzero;stroke:#000000;stroke-width:2.20892268000000010;stroke-linecap:butt;stroke-linejoin:round;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"/>
-        <path sodipodi:nodetypes="cccccc" id="path3192" d="M 0.48285121,147.52635 L -14.761451,147.52635 L -15.796132,139.52482 C -12.669096,135.24814 -10.783677,132.1441 -9.5190667,124.41848 L 7.4497044,124.41848 L 9.7949817,134.48937" style="opacity:1;fill:none;fill-opacity:0.50196078000000000;fill-rule:nonzero;stroke:#000000;stroke-width:2.20892268000000010;stroke-linecap:butt;stroke-linejoin:round;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"/>
+<svg xmlns="http://www.w3.org/2000/svg" version="1" width="100" height="100">
+    <g stroke="#000" stroke-width="2.209" stroke-linejoin="round" fill="none" fill-opacity=".502">
+        <path d="M.828 149.655l18.716.015.56-7.705c-2.518-2.758-3-3.31-4-7.31l-11.173.07c-1 4-1.826 6-4.826 8l.724 6.93z" overflow="visible" transform="matrix(2.62646 0 0 2.54592 44.344 -298.904)"/>
+        <path d="M.483 147.526H-14.76l-1.036-8c3.127-4.278 5.012-7.382 6.277-15.108H7.45l2.345 10.07" overflow="visible" transform="matrix(2.62646 0 0 2.54592 44.344 -298.904)"/>
     </g>
 </svg>
