@@ -1,10 +1,7 @@
-<svg xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" version="1.0" width="75" height="75" id="svg34864">
-    <defs id="defs34866"/>
-    <g transform="translate(-348.7552,-478.0905)" id="layer1">
-        <g transform="matrix(1.948116,0,0,1.937312,-342.4303,-460.0101)" id="g1872">
-            <path d="M 387.95009,489.60348 L 378.66214,498.89143" style="opacity:1;color:black;fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:black;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible" id="path26867"/>
-            <path d="M 49.396475 36.70454 A 15.623922 16.319134 0 1 1  18.14863,36.70454 A 15.623922 16.319134 0 1 1  49.396475 36.70454 z" transform="matrix(0.48802,0.48802,-0.467594,0.467594,371.6094,473.1357)" style="opacity:1;color:black;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:black;stroke-width:4.44071579;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible" id="path26871"/>
-            <path d="M 379.92823,489.70212 C 387.842,489.70212 387.842,489.70212 387.842,489.70212 L 387.842,497.61589" style="fill:none;fill-rule:evenodd;stroke:black;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" id="path27759"/>
-        </g>
+<svg xmlns="http://www.w3.org/2000/svg" version="1" width="75" height="75">
+    <g fill="none" fill-rule="evenodd" stroke="#000">
+        <path d="M387.95 489.603l-9.288 9.288" color="#000" fill-opacity=".75" stroke-width="3" overflow="visible" transform="matrix(1.948 0 0 1.9373 -691.186 -938.1)"/>
+        <path d="M49.396 36.705a15.624 16.32 0 1 1-31.247 0 15.624 16.32 0 1 1 31.246 0z" transform="matrix(.9507 .9454 -.911 .906 32.753 -21.49)" color="#000" stroke-width="4.441" overflow="visible"/>
+        <path d="M379.928 489.702h7.914v7.914" stroke-width="3" transform="matrix(1.948 0 0 1.9373 -691.186 -938.1)"/>
     </g>
 </svg>
