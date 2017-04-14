@@ -50,7 +50,7 @@
 - Pisces - February 19 - March 20
 
 
-### Symbols
+### Numbers
 - 零 = 0
 - 一 = 1
 - 二 = 2
